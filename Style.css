@@ -1,0 +1,13 @@
+body{
+color:red;
+background-color:blue;
+text-align: center;
+
+}
+button{
+text-align: center;
+background-color: chartreuse;
+color:forestgreen;
+width:30%;
+height: 30px;
+}
